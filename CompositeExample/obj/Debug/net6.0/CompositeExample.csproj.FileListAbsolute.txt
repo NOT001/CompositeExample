@@ -1,0 +1,14 @@
+C:\Users\Nguyen Ha\source\repos\CompositeExample\CompositeExample\obj\Debug\net6.0\CompositeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Ha\source\repos\CompositeExample\CompositeExample\obj\Debug\net6.0\CompositeExample.AssemblyInfoInputs.cache
+C:\Users\Nguyen Ha\source\repos\CompositeExample\CompositeExample\obj\Debug\net6.0\CompositeExample.AssemblyInfo.cs
+C:\Users\Nguyen Ha\source\repos\CompositeExample\CompositeExample\obj\Debug\net6.0\CompositeExample.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Ha\source\repos\CompositeExample\CompositeExample\bin\Debug\net6.0\CompositeExample.exe
+C:\Users\Nguyen Ha\source\repos\CompositeExample\CompositeExample\bin\Debug\net6.0\CompositeExample.deps.json
+C:\Users\Nguyen Ha\source\repos\CompositeExample\CompositeExample\bin\Debug\net6.0\CompositeExample.runtimeconfig.json
+C:\Users\Nguyen Ha\source\repos\CompositeExample\CompositeExample\bin\Debug\net6.0\CompositeExample.dll
+C:\Users\Nguyen Ha\source\repos\CompositeExample\CompositeExample\bin\Debug\net6.0\CompositeExample.pdb
+C:\Users\Nguyen Ha\source\repos\CompositeExample\CompositeExample\obj\Debug\net6.0\CompositeExample.dll
+C:\Users\Nguyen Ha\source\repos\CompositeExample\CompositeExample\obj\Debug\net6.0\refint\CompositeExample.dll
+C:\Users\Nguyen Ha\source\repos\CompositeExample\CompositeExample\obj\Debug\net6.0\CompositeExample.pdb
+C:\Users\Nguyen Ha\source\repos\CompositeExample\CompositeExample\obj\Debug\net6.0\CompositeExample.genruntimeconfig.cache
+C:\Users\Nguyen Ha\source\repos\CompositeExample\CompositeExample\obj\Debug\net6.0\ref\CompositeExample.dll
